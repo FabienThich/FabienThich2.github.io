@@ -1,4 +1,4 @@
 # Personal Website
-My First GitHub Page Website 
+This is my first personal website which uses mainly html and css
 
 
